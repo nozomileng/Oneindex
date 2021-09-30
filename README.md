@@ -1,3 +1,6 @@
+作者提供的桥接链接：https://oneindex.github.io/ 和 https://jn.tn/ 都相继失效了，导致页面空白，其实我们可以用自己的桥接链接，作者在源码的oneindex/controller/AdminController.php文件170行中有一段判断
+
+
 # oneindex
 OneDrive Directory Index
 
